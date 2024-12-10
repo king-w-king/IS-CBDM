@@ -1,2 +1,2 @@
 # IS-CBDM
-Our code is about to be released
+Code and pretrained IS-CBDM models will be released soon !
